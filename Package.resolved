@@ -1,12 +1,13 @@
 {
+  "originHash" : "bef223853706517958541f2791faea0c07409e3d24912b65ec877dd7c4d632a0",
   "pins" : [
     {
       "identity" : "networkimage",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gonzalezreal/NetworkImage",
+      "location" : "https://github.com/DePasqualeOrg/NetworkImage",
       "state" : {
-        "revision" : "7aff8d1b31148d32c5933d75557d42f6323ee3d1",
-        "version" : "6.0.0"
+        "branch" : "improve-concurrency",
+        "revision" : "311ef5bc0d9cd001121f5c19265bcd514d0cef63"
       }
     },
     {
@@ -19,5 +20,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
